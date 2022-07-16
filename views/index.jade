@@ -1,0 +1,52 @@
+extends layout
+
+block content
+  style.
+    body {
+      counter-reset: article; //* Article countinuous*//
+    }
+    ol {
+      list-style-type: none;
+    }
+    .title { counter-reset: title}
+    .title>li:before {
+      counter-increment: title;
+      content: 'Title ' counter(title, upper-roman) '. ';
+    }
+    .chapter { counter-reset: chapter; }
+    .chapter>li:before {
+      counter-increment: chapter;
+      content: 'Chapter ' counter(chapter, decimal) '. ';
+    }
+    .part { counter-reset: part; }
+    .part>li:before {
+      counter-increment: part;
+      content: 'Part ' counter(part, decimal) '. ';
+    }
+    .article>li:before {
+      counter-increment: article;
+      content: 'Article ' counter(title) '.' counter(chapter) '.' counter(article, decimal) '. ';
+    }
+  h1= title
+  p Welcome to #{title}
+  ol(class="title")
+    li The server
+    ol(class="chapter")
+      li Not-safe for work Channels
+      ol(class="part")
+        li Definitions
+        ol(class="article")
+          li Definitions (article)
+          p In this chapter I am stupid
+        li Designation of channels
+        ol(class="article")
+          li Desgination of not shitty for wall
+          p This channel shall be reserve for horny people
+          li Creation and Designaiton of mental asulum
+          p This channel shall be reserve for mentally unstable people
+    li Immigration and citizenship
+    ol(class="chapter")
+      li Establishment of the Immigration board
+      ol(class="article")
+        li Establishment of the Immigration board
+    li The third topic

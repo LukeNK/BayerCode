@@ -18,28 +18,32 @@ block content
     details>
 
     .title, .title details { list-style-type: none; }
-    .title{ counter-reset: chapter}
+    .title { counter-reset: subtitle}
     .title>summary:before {
       counter-increment: title;
       content: 'Title ' counter(title, upper-roman) '. ';
     }
+
+    .subtitle { counter-reset: chapter}
+    .subtitle>summary:before {
+      counter-increment: subtitle;
+      content: 'Subtitle ' counter(subtitle, upper-roman) '. ';
+    }
+
     .chapter { counter-reset: part; }
     .chapter>summary:before {
       counter-increment: chapter;
       content: 'Chapter ' counter(chapter, decimal) '. ';
     }
+
     .part>summary:before {
       counter-increment: part;
       content: 'Part ' counter(part, decimal) '. ';
     }
-    .article>summary:before {
-      counter-increment: article;
-      content: 'Article ' counter(article, decimal) '. ';
-    }
-    .clause { list-style-type: lower-roman }
+
+    .clause { list-style-type: lower-latin }
   h1= title
   button(onclick='expAll()') Expand/Collapse all
-  p Welcome to #{title}
   div!= data
   script.
     function expAll() {

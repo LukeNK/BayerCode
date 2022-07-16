@@ -86,7 +86,21 @@
             "content": [
               {
                 "article": "Definitions",
-                "content": "[In this Chapter:]\n<ol type=\"a\"><li>The term \"sexual content\" includes content which contains nudity, intense sexuality, or other sexually suggestive subject matter in all formats (images, videos, audio, text, links, etc...).</li><li>The term \"gore content\" includes disturbing or unsettling content which contain blood, organs, severe injuries, suicides, tortures or other potentially disturbing subject matter in all formats (images, videos, audio, text, links, etc...).</li></ol>"
+                "content": "[In this Chapter:]\n<ol class=\"clause\"><li>The term \"sexual content\" includes content which contains nudity, intense sexuality, or other sexually suggestive subject matter in all formats (images, videos, audio, text, links, etc...).</li><li>The term \"gore content\" includes disturbing or unsettling content which contain blood, organs, severe injuries, suicides, tortures or other potentially disturbing subject matter in all formats (images, videos, audio, text, links, etc...).</li></ol>",
+                "source": "RES_3-5-2021/00003, DEFINITION"
+              }
+            ]
+          },
+          {
+            "part": "Designation of Channels",
+            "content": [
+              {
+                "article": "Designation of #not-shitty-for-wall",
+                "content": "#not-shitty-for-wall shall now be reserved for sexual content strict"
+              },
+              {
+                "article": "Creation and Designation of #mental-asylum",
+                "content": "A new channel shall be created dedicated to gore content."
               }
             ]
           }
@@ -212,14 +226,19 @@
     "title": "Sovereign Possessions",
     "content": [
       {
-        "chapter": "lorem",
+        "subtitle": "The Constituent State of Fidelissma",
         "content": [
           {
-            "part": "ispum",
+            "chapter": "lorem",
             "content": [
               {
-                "article": "sit something",
-                "content": "Ha ha Pi go brrr 3.1415 no I did not remember Pi"
+                "part": "ispum",
+                "content": [
+                  {
+                    "article": "sit something",
+                    "content": "Ha ha Pi go brrr 3.1415 no I did not remember Pi"
+                  }
+                ]
               }
             ]
           }

@@ -23,13 +23,16 @@ function jsonToHTML(inp, art) {
       art.n++;
     }
     out += `<details class="${pro}"><summary>${name}</summary>`
-    if (typeof(content) == 'string') {
+    if (content?.length === 0) {
+      out += `</details>`;
+    } else if (typeof(content) == 'string') {
       out += `<p>${content}</p>`;
-      if (obj.source) out += `<code>${obj.source}</code>`
+      if (obj.source) out += `<code>${obj.source}</code>`;
+      if (obj?.note) out += `<p><i>${obj.note}</i></p>`
       out += '</details>';
     } else {
       // object content, do recursive
-      out += `${jsonToHTML(obj.content, art)}</details>`
+      out += `${jsonToHTML(obj.content, art)}</details>`;
     }
   }
   return out.replace(RegExp('\n', 'g'), '<br>')

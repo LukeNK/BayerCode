@@ -18,7 +18,7 @@ block content
     details>
 
     .title, .title details { list-style-type: none; }
-    .title { counter-reset: subtitle}
+    .title { counter-reset: subtitle chapter;}
     .title>summary:before {
       counter-increment: title;
       content: 'Title ' counter(title, upper-roman) '. ';

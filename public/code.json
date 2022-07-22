@@ -31,7 +31,7 @@
               },
               {
                 "article": "Definitions",
-                "content": "For the purpose of this [Chapter]:\r\n<ol class=\"clause><li>“The Chair” shall refer to the position, powers, and duties as defined by this [Chapter], which is held and discharged by a person authorized by this [Chapter].</li><li>“The Speaker” shall refer to the person elected by Parliament to the Chair, and to exercise the powers and duties thereof on a regular basis.</li><li>“A Member” shall refer to a Member of Parliament.</li></ol>",
+                "content": "For the purpose of this [Chapter]:\r\n<ol class=\"clause\"><li>“The Chair” shall refer to the position, powers, and duties as defined by this [Chapter], which is held and discharged by a person authorized by this [Chapter].</li><li>“The Speaker” shall refer to the person elected by Parliament to the Chair, and to exercise the powers and duties thereof on a regular basis.</li><li>“A Member” shall refer to a Member of Parliament.</li></ol>",
                 "source": "No. 12 of 2022, Article 2",
                 "note": ""
               }
@@ -574,7 +574,7 @@
             "note": ""
           },
           {
-            "article": " 1.3. Creation and Designation of #mental-asylum",
+            "article": " Creation and Designation of #mental-asylum",
             "content": "A new channel shall be created dedicated to gore content.",
             "source": "RES_3-5-2021/00003, 2.",
             "note": "The channel referred to by this provision is now #mental-asylum."
@@ -749,49 +749,47 @@
   {
     "title": "Copyright",
     "content": [
-      [
-        {
-          "chapter": "Governmental Intellectual Property",
-          "content": [
-            {
-              "article": "Governmental Intellectual Property",
-              "content": "Governmental intellectual property, known as GIP from this point onwards, shall include any legislation, court document, executive order, graphic design, anthem, flag, emblem, and any other national symbol created by or commissioned for the Government of the Bayer Free State.",
-              "source": "No. 11 of 2022, Article 1",
-              "note": ""
-            },
-            {
-              "article": "Rights to Governmental Intellectual Property",
-              "content": "All rights regarding GIP shall be reserved to the Government of the Bayer Free State, with exceptions stated otherwise by this [Chapter], or by any other act enacted by the Parliament of the Bayer Free State.",
-              "source": "No. 11 of 2022, Article 2",
-              "note": ""
-            },
-            {
-              "article": "Fair Use",
-              "content": "The fair use of GIP, including such use by reproduction for purposes such as criticism, comment, expression, news reporting, teaching, scholarship, or research, shall be permitted without prior consent by the Government.",
-              "source": "No. 11 of 2022, Article 3",
-              "note": ""
-            },
-            {
-              "article": "GIP Copyright Infringement",
-              "content": "An act including the use of, copying of, reproduction of, adapting of, or authoring or commissioning a work which bears resemblance, to a certain extent, to any GIP which is not protected by fair use without the prior consent of the Government of the Bayer Free State shall constitute a copyright infringement of GIP.",
-              "source": "No. 11 of 2022, Article 4",
-              "note": ""
-            },
-            {
-              "article": "Consequences of GIP Copyright Infringement",
-              "content": "Any person committing GIP copyright infringement may be tried in a civil trial, and if found liable shall have to compensate appropriately to the Government, and to take any other actions the court deems appropriate to be ordered.",
-              "source": "No. 11 of 2022, Article 5",
-              "note": ""
-            },
-            {
-              "article": "Foreign States Committing GIP Copyright Infringement",
-              "content": "The Head of State, the Prime Minister, and Parliament shall be authorized to confront, proceed in a civil trial in an appropriate national or international tribunal against, impose sanctions against, and sever diplomatic relationships with any foreign state committing GIP copyright infringement against the Government of the Bayer Free State as it deems appropriate.",
-              "source": "No. 11 of 2022, Article 6",
-              "note": ""
-            }
-          ]
-        }
-      ]
+      {
+        "chapter": "Governmental Intellectual Property",
+        "content": [
+          {
+            "article": "Governmental Intellectual Property",
+            "content": "Governmental intellectual property, known as GIP from this point onwards, shall include any legislation, court document, executive order, graphic design, anthem, flag, emblem, and any other national symbol created by or commissioned for the Government of the Bayer Free State.",
+            "source": "No. 11 of 2022, Article 1",
+            "note": ""
+          },
+          {
+            "article": "Rights to Governmental Intellectual Property",
+            "content": "All rights regarding GIP shall be reserved to the Government of the Bayer Free State, with exceptions stated otherwise by this [Chapter], or by any other act enacted by the Parliament of the Bayer Free State.",
+            "source": "No. 11 of 2022, Article 2",
+            "note": ""
+          },
+          {
+            "article": "Fair Use",
+            "content": "The fair use of GIP, including such use by reproduction for purposes such as criticism, comment, expression, news reporting, teaching, scholarship, or research, shall be permitted without prior consent by the Government.",
+            "source": "No. 11 of 2022, Article 3",
+            "note": ""
+          },
+          {
+            "article": "GIP Copyright Infringement",
+            "content": "An act including the use of, copying of, reproduction of, adapting of, or authoring or commissioning a work which bears resemblance, to a certain extent, to any GIP which is not protected by fair use without the prior consent of the Government of the Bayer Free State shall constitute a copyright infringement of GIP.",
+            "source": "No. 11 of 2022, Article 4",
+            "note": ""
+          },
+          {
+            "article": "Consequences of GIP Copyright Infringement",
+            "content": "Any person committing GIP copyright infringement may be tried in a civil trial, and if found liable shall have to compensate appropriately to the Government, and to take any other actions the court deems appropriate to be ordered.",
+            "source": "No. 11 of 2022, Article 5",
+            "note": ""
+          },
+          {
+            "article": "Foreign States Committing GIP Copyright Infringement",
+            "content": "The Head of State, the Prime Minister, and Parliament shall be authorized to confront, proceed in a civil trial in an appropriate national or international tribunal against, impose sanctions against, and sever diplomatic relationships with any foreign state committing GIP copyright infringement against the Government of the Bayer Free State as it deems appropriate.",
+            "source": "No. 11 of 2022, Article 6",
+            "note": ""
+          }
+        ]
+      }
     ]
   },
   {
@@ -1383,31 +1381,29 @@
   {
     "title": "Foreign Affairs",
     "content": [
-      [
-        {
-          "chapter": "Policy Regarding Human Rights and Democracy",
-          "content": [
-            {
-              "article": "Condition for the Establishment and Continuance of Diplomatic Relations",
-              "content": "Any foreign state wishing to establish, or having established and wishing to maintain a diplomatic relationship with the Bayer Free State shall observe and ensure that democracy, the rule of law, and the basic human, civil, and political rights, freedoms, and protections be respected and protected equally among its population within its jurisdiction. ",
-              "source": "No. 15 of 2022, Article 1",
-              "note": ""
-            },
-            {
-              "article": "Termination of Diplomatic Relations",
-              "content": "The Head of State or the Prime Minister shall terminate diplomatic relations between the Bayer Free State with any foreign state that fails to maintain the condition provided by [BFSC] of this Act if deemed necessary. ",
-              "source": "No. 15 of 2022, Article 2",
-              "note": ""
-            },
-            {
-              "article": "Sanctions against Foreign States which Fail to Observe the Core Principles",
-              "content": "The Head of State or the Prime Minister shall impose sanctions in any form, including but not limited to denying entry for the citizens of, termination of economic trades, or any appropriate action permitted by statutes or international conventions or treaties on any foreign state that fails to observe and ensure that democracy, the rule of law, or the basic human, civil, and political rights, freedoms, and protections be respected and protected equally among its population within its jurisdiction. ",
-              "source": "No. 15 of 2022, Article 3",
-              "note": ""
-            }
-          ]
-        }
-      ]
+      {
+        "chapter": "Policy Regarding Human Rights and Democracy",
+        "content": [
+          {
+            "article": "Condition for the Establishment and Continuance of Diplomatic Relations",
+            "content": "Any foreign state wishing to establish, or having established and wishing to maintain a diplomatic relationship with the Bayer Free State shall observe and ensure that democracy, the rule of law, and the basic human, civil, and political rights, freedoms, and protections be respected and protected equally among its population within its jurisdiction. ",
+            "source": "No. 15 of 2022, Article 1",
+            "note": ""
+          },
+          {
+            "article": "Termination of Diplomatic Relations",
+            "content": "The Head of State or the Prime Minister shall terminate diplomatic relations between the Bayer Free State with any foreign state that fails to maintain the condition provided by [BFSC] of this Act if deemed necessary. ",
+            "source": "No. 15 of 2022, Article 2",
+            "note": ""
+          },
+          {
+            "article": "Sanctions against Foreign States which Fail to Observe the Core Principles",
+            "content": "The Head of State or the Prime Minister shall impose sanctions in any form, including but not limited to denying entry for the citizens of, termination of economic trades, or any appropriate action permitted by statutes or international conventions or treaties on any foreign state that fails to observe and ensure that democracy, the rule of law, or the basic human, civil, and political rights, freedoms, and protections be respected and protected equally among its population within its jurisdiction. ",
+            "source": "No. 15 of 2022, Article 3",
+            "note": ""
+          }
+        ]
+      }
     ]
   },
   {
@@ -1433,19 +1429,19 @@
               },
               {
                 "article": "Appeal as of Right—How Taken",
-                "content": "Section 1\r\n<ol class=\"clause><li>An appeal permitted by law as of right from a court to a court of appeals may be taken only by filing a notice of appeal within the time allowed by Article 4.</li><li>An appellant's failure to take any step other than the timely filing of a notice of appeal does not affect the validity of the appeal, but is ground only for the court of appeals to act as it considers appropriate, including dismissing the appeal.</li><li>An appeal from a judgment by a judge in a civil case is taken in the same way as an appeal from any other court judgment.</li></ol>\r\nSection 2\r\n<ol class=\"clause><li>When two or more parties are entitled to appeal from a court judgment or order, and their interests make joinder practicable, they may file a joint notice of appeal. They may then proceed on appeal as a single appellant.</li><li>When the parties have filed separate timely notices of appeal, the appeals may be joined or consolidated by the court of appeals.</li></ol>\r\nSection 3\r\n<ol class=\"clause><li>The notice of appeal must:<ul><li>specify the party or parties taking the appeal by naming each one in the caption or body of the notice, but an attorney representing more than one party may describe those parties with such terms as “all plaintiffs,” “the defendants,” “the plaintiffs A, B, et al.,” or “all defendants except X”;</li><li>designate the judgment—or the appealable order—from which the appeal is taken; and</li><li>name the court to which the appeal is taken.</li></ul></li><li>The notice of appeal encompasses all orders that, for purposes of appeal, merge into the designated judgment or appealable order. It is not necessary to designate those orders in the notice of appeal.</li><li>An appellant may designate only part of a judgment or appealable order by expressly stating that the notice of appeal is so limited. Without such an express statement, specific designations do not limit the scope of the notice of appeal.</li><li>An appeal must not be dismissed for informality of form or title of the notice of appeal, or for failure to name a party whose intent to appeal is otherwise clear from the notice, or for failure to properly designate the judgment if the notice of appeal was filed after entry of the judgment and designates an order that merged into that judgment.</li></ol>\r\nSection 4\r\n<ol class=\"clause><li>The court must serve notice of the filing of a notice of appeal by sending a copy to each party's counsel of record—excluding the appellant's. When a defendant in a criminal case appeals, the court must also serve a copy of the notice of appeal on the defendant. The court must promptly send a copy of the notice of appeal and of the docket entries—and any later docket entries—to the court of appeals named in the notice. The court must note, on each copy, the date when the notice of appeal was filed.</li><li>The court's failure to serve notice does not affect the validity of the appeal. The court must note on the docket the names of the parties to whom the court sends copies, with the date of sending.</li></ol>",
+                "content": "Section 1\r\n<ol class=\"clause\"><li>An appeal permitted by law as of right from a court to a court of appeals may be taken only by filing a notice of appeal within the time allowed by Article 4.</li><li>An appellant's failure to take any step other than the timely filing of a notice of appeal does not affect the validity of the appeal, but is ground only for the court of appeals to act as it considers appropriate, including dismissing the appeal.</li><li>An appeal from a judgment by a judge in a civil case is taken in the same way as an appeal from any other court judgment.</li></ol>\r\nSection 2\r\n<ol class=\"clause\"><li>When two or more parties are entitled to appeal from a court judgment or order, and their interests make joinder practicable, they may file a joint notice of appeal. They may then proceed on appeal as a single appellant.</li><li>When the parties have filed separate timely notices of appeal, the appeals may be joined or consolidated by the court of appeals.</li></ol>\r\nSection 3\r\n<ol class=\"clause\"><li>The notice of appeal must:<ul><li>specify the party or parties taking the appeal by naming each one in the caption or body of the notice, but an attorney representing more than one party may describe those parties with such terms as “all plaintiffs,” “the defendants,” “the plaintiffs A, B, et al.,” or “all defendants except X”;</li><li>designate the judgment—or the appealable order—from which the appeal is taken; and</li><li>name the court to which the appeal is taken.</li></ul></li><li>The notice of appeal encompasses all orders that, for purposes of appeal, merge into the designated judgment or appealable order. It is not necessary to designate those orders in the notice of appeal.</li><li>An appellant may designate only part of a judgment or appealable order by expressly stating that the notice of appeal is so limited. Without such an express statement, specific designations do not limit the scope of the notice of appeal.</li><li>An appeal must not be dismissed for informality of form or title of the notice of appeal, or for failure to name a party whose intent to appeal is otherwise clear from the notice, or for failure to properly designate the judgment if the notice of appeal was filed after entry of the judgment and designates an order that merged into that judgment.</li></ol>\r\nSection 4\r\n<ol class=\"clause\"><li>The court must serve notice of the filing of a notice of appeal by sending a copy to each party's counsel of record—excluding the appellant's. When a defendant in a criminal case appeals, the court must also serve a copy of the notice of appeal on the defendant. The court must promptly send a copy of the notice of appeal and of the docket entries—and any later docket entries—to the court of appeals named in the notice. The court must note, on each copy, the date when the notice of appeal was filed.</li><li>The court's failure to serve notice does not affect the validity of the appeal. The court must note on the docket the names of the parties to whom the court sends copies, with the date of sending.</li></ol>",
                 "source": "No. 9 of 2022, Article 3",
                 "note": ""
               },
               {
                 "article": "Appeal as of Right—When Taken",
-                "content": "Section 1\r\n<ol class=\"clause><li>A notice of appeal must be filed in the court of appeals within 14 days after the later of:<ul><li>the entry of either the judgment or the order being appealed; or</li><li>the filing of the government's notice of appeal.</li><li>When the government is entitled to appeal, its notice of appeal must be filed in the court of appeals within 21 days after the later of:</li><li>the entry of the judgment or order being appealed; or</li><li>the filing of a notice of appeal by any defendant.</li></ul></li><li>A notice of appeal filed after the court announces a decision, sentence, or order—but before the entry of the judgment or order—is treated as filed on the date of and after the entry.</li><li>A valid notice of appeal is effective—without amendment—to appeal from an order disposing of any motions.</li><li>Upon a finding of excusable neglect or good cause, the court may—before or after the time has expired, with or without motion and notice—extend the time to file a notice of appeal for a period not to exceed 30 days from the expiration of the time otherwise prescribed by this Section.</li><li>The filing of a notice of appeal under this Section does not divest a court of jurisdiction to correct a sentence under [BFSC], nor does the filing of a motion under that section affect the validity of a notice of appeal filed before entry of the order disposing of the motion. The filing of a motion under [BFSC] does not suspend the time for filing a notice of appeal from a judgment of conviction.</li><li>A judgment or order is entered for purposes of this Section when it is entered on the docket.</li></ol>\r\nSection 2\r\nIf a notice of appeal in either a civil or a criminal case is mistakenly filed in the court of appeals, that court must note on the notice the date when it was received and send it to the court. The notice is then considered filed in the court on the date so noted.",
+                "content": "Section 1\r\n<ol class=\"clause\"><li>A notice of appeal must be filed in the court of appeals within 14 days after the later of:<ul><li>the entry of either the judgment or the order being appealed; or</li><li>the filing of the government's notice of appeal.</li><li>When the government is entitled to appeal, its notice of appeal must be filed in the court of appeals within 21 days after the later of:</li><li>the entry of the judgment or order being appealed; or</li><li>the filing of a notice of appeal by any defendant.</li></ul></li><li>A notice of appeal filed after the court announces a decision, sentence, or order—but before the entry of the judgment or order—is treated as filed on the date of and after the entry.</li><li>A valid notice of appeal is effective—without amendment—to appeal from an order disposing of any motions.</li><li>Upon a finding of excusable neglect or good cause, the court may—before or after the time has expired, with or without motion and notice—extend the time to file a notice of appeal for a period not to exceed 30 days from the expiration of the time otherwise prescribed by this Section.</li><li>The filing of a notice of appeal under this Section does not divest a court of jurisdiction to correct a sentence under [BFSC], nor does the filing of a motion under that section affect the validity of a notice of appeal filed before entry of the order disposing of the motion. The filing of a motion under [BFSC] does not suspend the time for filing a notice of appeal from a judgment of conviction.</li><li>A judgment or order is entered for purposes of this Section when it is entered on the docket.</li></ol>\r\nSection 2\r\nIf a notice of appeal in either a civil or a criminal case is mistakenly filed in the court of appeals, that court must note on the notice the date when it was received and send it to the court. The notice is then considered filed in the court on the date so noted.",
                 "source": "No. 9 of 2022, Article 4",
                 "note": ""
               },
               {
                 "article": "Appeal by Permission",
-                "content": "Section 1\r\n<ol class=\"clause><li>To request permission to appeal when an appeal is within the court of appeals’ discretion, a party must file a petition with the court and serve it on all other parties to the court action.</li><li>The petition must be filed within the time specified by the statute authorizing the appeal or, if no such time is specified, within the time provided by Article 4 for filing a notice of appeal.</li><li>If a party cannot petition for appeal unless the court first enters an order granting permission to do so or stating that the necessary conditions are met, the court may amend its order, either on its own or in response to a party's motion, to include the required permission or statement. In that event, the time to petition runs from entry of the amended order.</li></ol>\r\nSection 2\r\n<ol class=\"clause><li>The petition must include the following:<ul><li>the facts necessary to understand the question presented;</li><li>the question itself;</li><li>the relief sought;</li><li>the reasons why the appeal should be allowed and is authorized by a statute; and</li><li>an attached copy of:<ul><li>the order, decree, or judgment complained of and any related opinion or memorandum, and</li><li>any order stating the court's permission to appeal or finding that the necessary conditions are met.</li></ul></li></ul></li><li>A party may file an answer in opposition or a cross-petition within 10 days after the petition is served.</li><li>The petition and answer will be submitted without argument unless the court of appeals orders otherwise.</li></ol>",
+                "content": "Section 1\r\n<ol class=\"clause\"><li>To request permission to appeal when an appeal is within the court of appeals’ discretion, a party must file a petition with the court and serve it on all other parties to the court action.</li><li>The petition must be filed within the time specified by the statute authorizing the appeal or, if no such time is specified, within the time provided by Article 4 for filing a notice of appeal.</li><li>If a party cannot petition for appeal unless the court first enters an order granting permission to do so or stating that the necessary conditions are met, the court may amend its order, either on its own or in response to a party's motion, to include the required permission or statement. In that event, the time to petition runs from entry of the amended order.</li></ol>\r\nSection 2\r\n<ol class=\"clause\"><li>The petition must include the following:<ul><li>the facts necessary to understand the question presented;</li><li>the question itself;</li><li>the relief sought;</li><li>the reasons why the appeal should be allowed and is authorized by a statute; and</li><li>an attached copy of:<ul><li>the order, decree, or judgment complained of and any related opinion or memorandum, and</li><li>any order stating the court's permission to appeal or finding that the necessary conditions are met.</li></ul></li></ul></li><li>A party may file an answer in opposition or a cross-petition within 10 days after the petition is served.</li><li>The petition and answer will be submitted without argument unless the court of appeals orders otherwise.</li></ol>",
                 "source": "No. 9 of 2022, Article 5",
                 "note": ""
               },
@@ -1457,7 +1453,7 @@
               },
               {
                 "article": "The Record on Appeal",
-                "content": "The following items constitute the record on appeal:\r\n<ol class=\"clause><li>the original papers and exhibits filed in the court;</li><li>the transcript of proceedings, if any; and</li><li>a certified copy of the docket entries prepared by the court.</li></ol>",
+                "content": "The following items constitute the record on appeal:\r\n<ol class=\"clause\"><li>the original papers and exhibits filed in the court;</li><li>the transcript of proceedings, if any; and</li><li>a certified copy of the docket entries prepared by the court.</li></ol>",
                 "source": "No. 9 of 2022, Article 7",
                 "note": ""
               },
@@ -1480,25 +1476,25 @@
             "content": [
               {
                 "article": "Review or Enforcement of an Agency Order—How Obtained; Intervention",
-                "content": "Section 1\r\n<ol class=\"clause><li>Review of an agency order is commenced by filing, within the time prescribed by law, a petition for review with a court of appeals authorized to review the agency order. If their interests make joinder practicable, two or more persons may join in a petition to the same court to review the same order.</li><li>The petition must:<ul><li>name each party seeking review either in the caption or the body of the petition—using such terms as “et al.,” “petitioners,” or “respondents” does not effectively name the parties;</li><li>name the agency as a respondent (even though not named in the petition, the Bayer Free State is a respondent if required by statute); and</li><li>specify the order or part thereof to be reviewed.</li></ul></li><li>In this Article “agency” includes an agency, board, commission, or officer; “petition for review” includes a petition to enjoin, suspend, modify, or otherwise review, or a notice of appeal, whichever form is indicated by the applicable statute.</li></ol>\r\nSection 2\r\n<ol class=\"clause><li>An application to enforce an agency order must be filed with a court of appeals authorized to enforce the order. If a petition is filed to review an agency order that the court may enforce, a party opposing the petition may file a cross-application for enforcement.</li><li>Within 7 days after the application for enforcement is filed, the respondent must serve on the applicant an answer to the application and file it with the court. If the respondent fails to answer in time, the court will enter judgment for the relief requested.</li><li>The application must contain a concise statement of the proceedings in which the order was entered, the facts upon which venue is based, and the relief requested.</li></ol>\r\nSection 3\r\nUnless a statute provides another method, a person who wants to intervene in a proceeding under this Article must file a motion for leave to intervene with the court. The motion—or other notice of intervention authorized by statute—must be filed within 21 days after the petition for review is filed and must contain a concise statement of the interest of the moving party and the grounds for intervention.",
+                "content": "Section 1\r\n<ol class=\"clause\"><li>Review of an agency order is commenced by filing, within the time prescribed by law, a petition for review with a court of appeals authorized to review the agency order. If their interests make joinder practicable, two or more persons may join in a petition to the same court to review the same order.</li><li>The petition must:<ul><li>name each party seeking review either in the caption or the body of the petition—using such terms as “et al.,” “petitioners,” or “respondents” does not effectively name the parties;</li><li>name the agency as a respondent (even though not named in the petition, the Bayer Free State is a respondent if required by statute); and</li><li>specify the order or part thereof to be reviewed.</li></ul></li><li>In this Article “agency” includes an agency, board, commission, or officer; “petition for review” includes a petition to enjoin, suspend, modify, or otherwise review, or a notice of appeal, whichever form is indicated by the applicable statute.</li></ol>\r\nSection 2\r\n<ol class=\"clause\"><li>An application to enforce an agency order must be filed with a court of appeals authorized to enforce the order. If a petition is filed to review an agency order that the court may enforce, a party opposing the petition may file a cross-application for enforcement.</li><li>Within 7 days after the application for enforcement is filed, the respondent must serve on the applicant an answer to the application and file it with the court. If the respondent fails to answer in time, the court will enter judgment for the relief requested.</li><li>The application must contain a concise statement of the proceedings in which the order was entered, the facts upon which venue is based, and the relief requested.</li></ol>\r\nSection 3\r\nUnless a statute provides another method, a person who wants to intervene in a proceeding under this Article must file a motion for leave to intervene with the court. The motion—or other notice of intervention authorized by statute—must be filed within 21 days after the petition for review is filed and must contain a concise statement of the interest of the moving party and the grounds for intervention.",
                 "source": "No. 9 of 2022, Article 10",
                 "note": ""
               },
               {
                 "article": "The Record on Review or Enforcement",
-                "content": "Section 1\r\nThe record on review or enforcement of an agency order consists of:\r\n<ol class=\"clause><li>the order involved;</li><li>any findings or report on which it is based; and</li><li>the pleadings, evidence, and other parts of the proceedings before the agency.</li></ol>\r\nSection 2\r\nThe parties may at any time, by stipulation, supply any omission from the record or correct a misstatement, or the court may so direct. If necessary, the court may direct that a supplemental record be prepared and filed.",
+                "content": "Section 1\r\nThe record on review or enforcement of an agency order consists of:\r\n<ol class=\"clause\"><li>the order involved;</li><li>any findings or report on which it is based; and</li><li>the pleadings, evidence, and other parts of the proceedings before the agency.</li></ol>\r\nSection 2\r\nThe parties may at any time, by stipulation, supply any omission from the record or correct a misstatement, or the court may so direct. If necessary, the court may direct that a supplemental record be prepared and filed.",
                 "source": "No. 9 of 2022, Article 11",
                 "note": ""
               },
               {
                 "article": "Filing the Record",
-                "content": "Section 1\r\nThe agency must file the record with the court of appeals within 14 days after being served with a petition for review, unless the statute authorizing review provides otherwise, or within 14 days after it files an application for enforcement unless the respondent fails to answer or the court orders otherwise. The court may shorten or extend the time to file the record. The court must notify all parties of the date when the record is filed.\r\nSection 2\r\n<ol class=\"clause><li>The agency must file:<ul><li>the original or a certified copy of the entire record or parts designated by the parties; or</li><li>a certified list adequately describing all documents, transcripts of testimony, exhibits, and other material constituting the record, or describing those parts designated by the parties.</li></ul></li><li>The parties may stipulate in writing that no record or certified list be filed. The date when the stipulation is filed with the court of appeals is treated as the date when the record is filed.</li><li>The agency must retain any portion of the record not filed with the court. All parts of the record retained by the agency are a part of the record on review for all purposes and, if the court or a party so requests, must be sent to the court regardless of any prior stipulation.</li></ol>",
+                "content": "Section 1\r\nThe agency must file the record with the court of appeals within 14 days after being served with a petition for review, unless the statute authorizing review provides otherwise, or within 14 days after it files an application for enforcement unless the respondent fails to answer or the court orders otherwise. The court may shorten or extend the time to file the record. The court must notify all parties of the date when the record is filed.\r\nSection 2\r\n<ol class=\"clause\"><li>The agency must file:<ul><li>the original or a certified copy of the entire record or parts designated by the parties; or</li><li>a certified list adequately describing all documents, transcripts of testimony, exhibits, and other material constituting the record, or describing those parts designated by the parties.</li></ul></li><li>The parties may stipulate in writing that no record or certified list be filed. The date when the stipulation is filed with the court of appeals is treated as the date when the record is filed.</li><li>The agency must retain any portion of the record not filed with the court. All parts of the record retained by the agency are a part of the record on review for all purposes and, if the court or a party so requests, must be sent to the court regardless of any prior stipulation.</li></ol>",
                 "source": "No. 9 of 2022, Article 12",
                 "note": ""
               },
               {
                 "article": "Stay Pending Review",
-                "content": "Section 1\r\nA petitioner must ordinarily move first before the agency for a stay pending review of its decision or order.\r\nSection 2\r\nA motion for a stay may be made to the court of appeals or one of its judges.\r\n<ol class=\"clause><li>The motion must:<ul><li>show that moving first before the agency would be impracticable; or</li><li>state that, a motion having been made, the agency denied the motion or failed to afford the relief requested and state any reasons given by the agency for its action.</li></ul></li><li>The motion must also include:<ul><li>the reasons for granting the relief requested and the facts relied on;</li><li>originals or copies of affidavits or other sworn statements supporting facts subject to dispute; and</li><li>relevant parts of the record.</li></ul></li><li>The moving party must give reasonable notice of the motion to all parties.</li><li>The motion must be filed with the court and normally will be considered by a panel of the court. But in an exceptional case in which time requirements make that procedure impracticable, the motion may be made to and considered by a single judge.</li></ol>",
+                "content": "Section 1\r\nA petitioner must ordinarily move first before the agency for a stay pending review of its decision or order.\r\nSection 2\r\nA motion for a stay may be made to the court of appeals or one of its judges.\r\n<ol class=\"clause\"><li>The motion must:<ul><li>show that moving first before the agency would be impracticable; or</li><li>state that, a motion having been made, the agency denied the motion or failed to afford the relief requested and state any reasons given by the agency for its action.</li></ul></li><li>The motion must also include:<ul><li>the reasons for granting the relief requested and the facts relied on;</li><li>originals or copies of affidavits or other sworn statements supporting facts subject to dispute; and</li><li>relevant parts of the record.</li></ul></li><li>The moving party must give reasonable notice of the motion to all parties.</li><li>The motion must be filed with the court and normally will be considered by a panel of the court. But in an exceptional case in which time requirements make that procedure impracticable, the motion may be made to and considered by a single judge.</li></ol>",
                 "source": "No. 9 of 2022, Article 13",
                 "note": ""
               },
@@ -1521,7 +1517,7 @@
             "content": [
               {
                 "article": "Writs of Mandamus and Prohibition, and Other Extraordinary Writs",
-                "content": "Section 1\r\n<ol class=\"clause><li>A party petitioning for a writ of mandamus or prohibition directed to a court must file a petition with the court and serve it on all parties to the proceeding in the trial court. All parties to the proceeding in the trial court other than the petitioner are respondents for all purposes.</li><li><ul><li>The petition must be titled “In re [name of petitioner].”</li><li>The petition must state:<ul><li>the relief sought;</li><li>the issues presented;</li><li>the facts necessary to understand the issue presented by the petition; and</li><li>the reasons why the writ should be issued.</li></ul></li><li>The petition must include a copy of any order or opinion or parts of the record that may be essential to understand the matters set forth in the petition.</li></ul></li>Upon receiving the petition, the court must docket the petition and submit it to the court.</li></ol>\r\nSection 2\r\n<ol class=\"clause><li>The court may deny the petition without an answer. Otherwise, it must order the respondent, if any, to answer within a fixed time.</li><li>The court must serve the order to respond on all persons directed to respond.</li><li>Two or more respondents may answer jointly.</li><li>The court of appeals may invite or order the trial-court judge to address the petition or may invite an amicus curiae to do so. The trial-court judge may request permission to address the petition but may not do so unless invited or ordered to do so by the court of appeals.</li><li>If briefing or argument is required, the court must advise the parties, and when appropriate, the trial-court judge or amicus curiae.</li><li>The proceeding must be given preference over ordinary civil cases.</li></ol>\r\nSection 3\r\nAn application for an extraordinary writ other than one provided for in Section 1 of this Article must be made by filing a petition with the court of appeals and serving it on the respondents. Proceedings on the application must conform, so far as is practicable, to the procedures prescribed in Section 1 and Section 2 of this Article.",
+                "content": "Section 1\r\n<ol class=\"clause\"><li>A party petitioning for a writ of mandamus or prohibition directed to a court must file a petition with the court and serve it on all parties to the proceeding in the trial court. All parties to the proceeding in the trial court other than the petitioner are respondents for all purposes.</li><li><ul><li>The petition must be titled “In re [name of petitioner].”</li><li>The petition must state:<ul><li>the relief sought;</li><li>the issues presented;</li><li>the facts necessary to understand the issue presented by the petition; and</li><li>the reasons why the writ should be issued.</li></ul></li><li>The petition must include a copy of any order or opinion or parts of the record that may be essential to understand the matters set forth in the petition.</li></ul></li>Upon receiving the petition, the court must docket the petition and submit it to the court.</li></ol>\r\nSection 2\r\n<ol class=\"clause\"><li>The court may deny the petition without an answer. Otherwise, it must order the respondent, if any, to answer within a fixed time.</li><li>The court must serve the order to respond on all persons directed to respond.</li><li>Two or more respondents may answer jointly.</li><li>The court of appeals may invite or order the trial-court judge to address the petition or may invite an amicus curiae to do so. The trial-court judge may request permission to address the petition but may not do so unless invited or ordered to do so by the court of appeals.</li><li>If briefing or argument is required, the court must advise the parties, and when appropriate, the trial-court judge or amicus curiae.</li><li>The proceeding must be given preference over ordinary civil cases.</li></ol>\r\nSection 3\r\nAn application for an extraordinary writ other than one provided for in Section 1 of this Article must be made by filing a petition with the court of appeals and serving it on the respondents. Proceedings on the application must conform, so far as is practicable, to the procedures prescribed in Section 1 and Section 2 of this Article.",
                 "source": "No. 9 of 2022, Article 16",
                 "note": ""
               }
@@ -1538,7 +1534,7 @@
               },
               {
                 "article": "Custody or Release of a Detainee in a Habeas Corpus Proceeding",
-                "content": "Section 1\r\nWhile a decision not to release a detainee is under review, the court or judge rendering the decision, or the court of appeals, or the Supreme Court, or a judge or justice of either court, may order that the detainee be:\r\n<ol class=\"clause><li>detained appropriately; or</li><li>released on personal recognizance, with or without surety.</li></ol>\r\nSection 2\r\nWhile a decision ordering the release of a detainee is under review, the detainee must—unless the court or judge rendering the decision, or the court of appeals, or the Supreme Court, or a judge or justice of either court orders otherwise—be released on personal recognizance, with or without surety.\r\nSection 3\r\nAn initial order governing the detainee’s custody or release, including any recognizance or surety, continues in effect pending review unless for special reasons shown to the court of appeals or the Supreme Court, or to a judge or justice of either court, the order is modified or an independent order regarding custody, release, or surety is issued.",
+                "content": "Section 1\r\nWhile a decision not to release a detainee is under review, the court or judge rendering the decision, or the court of appeals, or the Supreme Court, or a judge or justice of either court, may order that the detainee be:\r\n<ol class=\"clause\"><li>detained appropriately; or</li><li>released on personal recognizance, with or without surety.</li></ol>\r\nSection 2\r\nWhile a decision ordering the release of a detainee is under review, the detainee must—unless the court or judge rendering the decision, or the court of appeals, or the Supreme Court, or a judge or justice of either court orders otherwise—be released on personal recognizance, with or without surety.\r\nSection 3\r\nAn initial order governing the detainee’s custody or release, including any recognizance or surety, continues in effect pending review unless for special reasons shown to the court of appeals or the Supreme Court, or to a judge or justice of either court, the order is modified or an independent order regarding custody, release, or surety is issued.",
                 "source": "No. 9 of 2022, Article 18",
                 "note": ""
               }
@@ -1549,7 +1545,7 @@
             "content": [
               {
                 "article": "Computing and Extending Time",
-                "content": "​​Section 1\r\nThis article applies in computing any time period specified in this [Chapter], or court order, or in any statute that does not specify a method of computing time.\r\nSection 2\r\nWhen the period is stated in days or a longer unit of time:\r\n<ol class=\"clause><li>exclude the day of the event that triggers the period;</li><li>count every day; and</li><li>include the last day of the period.</li></ol>\r\nSection 3\r\nWhen the period is stated in hours:\r\n<ol class=\"clause><li>begin counting immediately on the occurrence of the event that triggers the period; and</li><li>count every hour.</li></ol>",
+                "content": "​​Section 1\r\nThis article applies in computing any time period specified in this [Chapter], or court order, or in any statute that does not specify a method of computing time.\r\nSection 2\r\nWhen the period is stated in days or a longer unit of time:\r\n<ol class=\"clause\"><li>exclude the day of the event that triggers the period;</li><li>count every day; and</li><li>include the last day of the period.</li></ol>\r\nSection 3\r\nWhen the period is stated in hours:\r\n<ol class=\"clause\"><li>begin counting immediately on the occurrence of the event that triggers the period; and</li><li>count every hour.</li></ol>",
                 "source": "No. 9 of 2022, Article 19",
                 "note": ""
               },
@@ -1573,13 +1569,13 @@
               },
               {
                 "article": "En Banc Determination",
-                "content": "Section 1\r\nA majority of the court of appeals judges who are in regular active service and who are not disqualified may order that an appeal or other proceeding be heard or reheard by the court of appeals en banc. An en banc hearing or rehearing is not favored and ordinarily will not be ordered unless:\r\n<ol class=\"clause><li>en banc consideration is necessary to secure or maintain uniformity of the court's decisions; or</li><li>the proceeding involves a question of exceptional importance.</li></ol>\r\nSection 2\r\nA party may petition for a hearing or rehearing en banc.\r\n<ol class=\"clause><li>The petition must begin with a statement that either:the panel decision conflicts with a decision of the Supreme Court or of the court to which the petition is addressed (with citation to the conflicting case or cases) and consideration by the full court is therefore necessary to secure and maintain uniformity of the court's decisions; orthe proceeding involves one or more questions of exceptional importance, each of which must be concisely stated; for example, a petition may assert that a proceeding presents a question of exceptional importance if it involves an issue on which the panel decision conflicts with the authoritative decisions of other court of appeals that have addressed the issue.\r\nSection 3\r\nA petition that an appeal be heard initially en banc must be filed by the date when the appellee's brief is due. A petition for a rehearing en banc must be filed within the time prescribed by Article 26 for filing a petition for rehearing.\r\nSection 4\r\nA vote need not be taken to determine whether the case will be heard or reheard en banc unless a judge calls for a vote.",
+                "content": "Section 1\r\nA majority of the court of appeals judges who are in regular active service and who are not disqualified may order that an appeal or other proceeding be heard or reheard by the court of appeals en banc. An en banc hearing or rehearing is not favored and ordinarily will not be ordered unless:\r\n<ol class=\"clause\"><li>en banc consideration is necessary to secure or maintain uniformity of the court's decisions; or</li><li>the proceeding involves a question of exceptional importance.</li></ol>\r\nSection 2\r\nA party may petition for a hearing or rehearing en banc.\r\n<ol class=\"clause\"><li>The petition must begin with a statement that either:the panel decision conflicts with a decision of the Supreme Court or of the court to which the petition is addressed (with citation to the conflicting case or cases) and consideration by the full court is therefore necessary to secure and maintain uniformity of the court's decisions; orthe proceeding involves one or more questions of exceptional importance, each of which must be concisely stated; for example, a petition may assert that a proceeding presents a question of exceptional importance if it involves an issue on which the panel decision conflicts with the authoritative decisions of other court of appeals that have addressed the issue.\r\nSection 3\r\nA petition that an appeal be heard initially en banc must be filed by the date when the appellee's brief is due. A petition for a rehearing en banc must be filed within the time prescribed by Article 26 for filing a petition for rehearing.\r\nSection 4\r\nA vote need not be taken to determine whether the case will be heard or reheard en banc unless a judge calls for a vote.",
                 "source": "No. 9 of 2022, Article 23",
                 "note": ""
               },
               {
                 "article": "Entry of Judgment; Notice",
-                "content": "Section 1\r\nA judgment is entered when it is noted on the docket. The court must prepare, sign, and enter the judgment:\r\n<ol class=\"clause><li>after receiving the court's opinion—but if settlement of the judgment's form is required, after final settlement; or</li><li>if a judgment is rendered without an opinion, as the court instructs.</li></ol>\r\nSection 2\r\nOn the date when judgment is entered, the court must serve on all parties a copy of the opinion—or the judgment, if no opinion was written—and a notice of the date when the judgment was entered.",
+                "content": "Section 1\r\nA judgment is entered when it is noted on the docket. The court must prepare, sign, and enter the judgment:\r\n<ol class=\"clause\"><li>after receiving the court's opinion—but if settlement of the judgment's form is required, after final settlement; or</li><li>if a judgment is rendered without an opinion, as the court instructs.</li></ol>\r\nSection 2\r\nOn the date when judgment is entered, the court must serve on all parties a copy of the opinion—or the judgment, if no opinion was written—and a notice of the date when the judgment was entered.",
                 "source": "No. 9 of 2022, Article 24",
                 "note": ""
               },
@@ -1591,7 +1587,7 @@
               },
               {
                 "article": "Petition for Panel Rehearing",
-                "content": "Section 1\r\nUnless the time is shortened or extended by order, a petition for panel rehearing may be filed within 14 days after entry of judgment. \r\nSection 2\r\nThe petition must state with particularity each point of law or fact that the petitioner believes the court has overlooked or misapprehended and must argue in support of the petition. Argument is not permitted.\r\nSection 3\r\nUnless the court requests, no response to a petition for panel rehearing is permitted. Ordinarily, rehearing will not be granted in the absence of such a request.\r\nSection 4\r\nIf a petition for panel rehearing is granted, the court may do any of the following:\r\n<ol class=\"clause><li>make a final disposition of the case without reargument;</li><li>restore the case to the calendar for reargument or resubmission; or</li><li>issue any other appropriate order.</li></ol>",
+                "content": "Section 1\r\nUnless the time is shortened or extended by order, a petition for panel rehearing may be filed within 14 days after entry of judgment. \r\nSection 2\r\nThe petition must state with particularity each point of law or fact that the petitioner believes the court has overlooked or misapprehended and must argue in support of the petition. Argument is not permitted.\r\nSection 3\r\nUnless the court requests, no response to a petition for panel rehearing is permitted. Ordinarily, rehearing will not be granted in the absence of such a request.\r\nSection 4\r\nIf a petition for panel rehearing is granted, the court may do any of the following:\r\n<ol class=\"clause\"><li>make a final disposition of the case without reargument;</li><li>restore the case to the calendar for reargument or resubmission; or</li><li>issue any other appropriate order.</li></ol>",
                 "source": "No. 9 of 2022, Article 26",
                 "note": ""
               },

@@ -2448,8 +2448,13 @@
     "schedules": "Titile of this section",
     "content": [
       {
-        "article": "Abuse of Power",
-        "content": "I am stupid"
+        "schedule": "An interesting title",
+        "content": [
+          {
+            "article": "I am stupid",
+            "content": "I saw a bug in my room"
+          }
+        ]
       }
     ]
   }

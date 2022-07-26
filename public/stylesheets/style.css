@@ -1,8 +1,26 @@
+:root {
+  --color-theme: #007acc;
+  --color-bg: #1e1e1e;
+  --color-fg: #f8f8f8;
+  --color-red: #d93838;
+  --color-green: #068b0d;
+}
+
 body {
+  color: var(--color-fg);
+  background-color: var(--color-bg);
   padding: 50px;
   font-family: Helvetica, Arial, sans-serif;
 }
 
 a {
-  color: #00B7FF;
+  color: #007acc;
+}
+
+code {
+  color: var(--color-red);
+}
+
+.note {
+  color: var(--color-green);
 }

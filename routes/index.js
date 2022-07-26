@@ -13,7 +13,7 @@ function jsonToHTML(inp, art) {
   for (const obj of inp) {
     let pro, name, content = obj.content;
     // check for allowed section name
-    for (pro of ['title', 'subtitle', 'chapter', 'part', 'article', 'section']) {
+    for (pro of ['title', 'subtitle', 'chapter', 'part', 'article', 'schedules', 'schedule']) {
       if (!obj[pro]) continue;
       name = obj[pro];
       break;
@@ -22,13 +22,13 @@ function jsonToHTML(inp, art) {
       name = `Article ${art.n}. ${name}`;
       art.n++;
     }
-    out += `<details class="${pro}"><summary>${name}</summary>`
+    out += `<details class="${pro}"><summary id="${typeof(content) == 'string'? `art-${art.n-1}`: ''}">${name}</summary>`; // TODO: check if article and then add ID into the element
     if (content?.length === 0) {
       out += `</details>`;
     } else if (typeof(content) == 'string') {
       out += `<p>${content}</p>`;
       if (obj.source) out += `<code>${obj.source}</code>`;
-      if (obj?.note) out += `<p><i>${obj.note}</i></p>`
+      if (obj?.note) out += `<p class="note"><i>${obj.note}</i></p>`
       out += '</details>';
     } else {
       // object content, do recursive

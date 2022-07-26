@@ -2,20 +2,14 @@ extends layout
 
 block content
   style.
-    :root {
-      --color-bg: white;
-      --color-fg: black;
-    }
-
     body {
-      counter-reset: article title; /* Article countinuous*/
+      counter-reset: title article; /* Article countinuous*/
     }
 
     details {
       cursor: pointer;
       margin-left: 1rem;
     }
-    details>
 
     .title, .title details { list-style-type: none; }
     .title { counter-reset: subtitle chapter;}
@@ -39,6 +33,18 @@ block content
     .part>summary:before {
       counter-increment: part;
       content: 'Part ' counter(part, decimal) '. ';
+    }
+
+    .schedule>summary:before {
+      counter-increment: schedule;
+      content: 'Schedule ' counter(schedule, decimal) '. ';
+    }
+
+    .article>p {
+      margin: 0 0 1rem 1rem;
+    }
+    .article>code {
+      margin: 0 1rem;
     }
 
     .clause { list-style-type: lower-latin }

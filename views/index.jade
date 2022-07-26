@@ -11,6 +11,10 @@ block content
       margin-left: 1rem;
     }
 
+    details[open] {
+      padding-bottom: 1rem
+    }
+
     .title, .title details { list-style-type: none; }
     .title { counter-reset: subtitle chapter;}
     .title>summary:before {
@@ -41,10 +45,10 @@ block content
     }
 
     .article>p {
-      margin: 0 0 1rem 1rem;
+      margin: 0 0 0 1rem;
     }
     .article>code {
-      margin: 0 1rem;
+      margin-left: 1rem;
     }
 
     .clause { list-style-type: lower-latin }

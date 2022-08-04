@@ -28,7 +28,7 @@ function jsonToHTML(inp, art) {
     if (content?.length === 0) {
       out += `</details>`;
     } else if (typeof(content) == 'string') {
-      out += `<p>${content}</p>`;
+      out += `<p onclick="location.href='#${obj.articleId}'">${content}</p>`;
       if (obj.source) out += `<code>${obj.source}</code>`;
       if (obj?.note) out += `<p class="note"><i>${obj.note}</i></p>`
       out += '</details>';

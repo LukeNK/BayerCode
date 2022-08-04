@@ -21,8 +21,10 @@ function jsonToHTML(inp, art) {
     if (typeof(content) == 'string' && pro == 'article') {
       name = `Article ${art.n}. ${name}`;
       art.n++;
-    }
-    out += `<details class="${pro}"><summary id="${typeof(content) == 'string'? `art-${art.n-1}`: ''}">${name}</summary>`; // TODO: check if article and then add ID into the element
+      out += `<details class="${pro}"><summary id="${obj.articleId}">${name}</summary>`; 
+    } else
+      out += `<details class="${pro}"><summary>${name}</summary>`;
+    
     if (content?.length === 0) {
       out += `</details>`;
     } else if (typeof(content) == 'string') {

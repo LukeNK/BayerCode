@@ -7,16 +7,23 @@ block content
     }
 
     details {
-      cursor: pointer;
       margin-left: 1rem;
     }
-
     details[open] {
       padding-bottom: 1rem
+    }
+    details>summary{
+      cursor: pointer;
+    }
+    details[open]>summary {
+      color: var(--color-theme);
     }
 
     .title, .title details { list-style-type: none; }
     .title { counter-reset: subtitle chapter;}
+    .title>summary {
+      font-size: 20px;
+    }
     .title>summary:before {
       counter-increment: title;
       content: 'Title ' counter(title, upper-roman) '. ';
@@ -37,6 +44,10 @@ block content
     .part>summary:before {
       counter-increment: part;
       content: 'Part ' counter(part, decimal) '. ';
+    }
+
+    .schedules>summary{
+      font-size: 20px;
     }
 
     .schedule>summary:before {
@@ -60,3 +71,7 @@ block content
       var list = document.getElementsByTagName("details");
       for (e of list) e.open = (e.open)? '' : 'true';
     }
+    
+    // if there is article link in the location
+    if (window.location.hash) expAll();
+    

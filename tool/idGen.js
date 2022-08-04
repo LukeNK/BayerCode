@@ -3,11 +3,15 @@ let code = JSON.parse(fs.readFileSync('./public/code.json', 'utf-8'));
 
 let artIds = []; // list of article ids 
 function artCheck(code, gen) {
-    console.log(code);
     for (const obj of code) {
-        if (gen && obj?.article) do obj.articleId = makeId(5); while (artIds.includes(obj.articleId));
-        if (obj?.articleId) if(!artIds.includes(obj?.articleId)) artIds.push(obj.articleId);
-        else artCheck(obj.content);
+        if (obj?.article) {
+            if (gen) {
+                do obj.articleId = makeId(5); while (artIds.includes(obj.articleId));
+            }
+            if (obj?.articleId) {
+                if(!artIds.includes(obj?.articleId)) artIds.push(obj.articleId);
+            }
+        } else artCheck(obj.content, gen);
     }
 }
 

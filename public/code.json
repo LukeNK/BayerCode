@@ -2412,7 +2412,7 @@
             "content": [
               {
                 "article": "Magistrates",
-                "content": "The Magistrates shall be the sitting members of the Council.",
+                "content": "<ol class=\"clause\"><li>Section 1\r\nAt the beginning of each Council, the Council shall appoint one Councillor to be the Magistrate with two-thirds approval from other Councillors. The Magistrate shall serve until the end of that Council term or vacant by other reason.</li><li>Section 2\r\nNo person shall be the Magistrate, and judge of any lower court or Chief Justice at the same time. </li><li>Section 3\r\nIn the event of the vacancy of the Magistrate, a new Magistrate shall be appointed according to Section 1 of this Article and shall serve until the end of that Council. During the vacancy of the Magistrate, any pending filling, trial, or motion shall be postponed until a new Magistrate is appointed.</li></ol>",
                 "source": "No. 17 of 2022, Article 12",
                 "note": "",
                 "articleId": "D1hfZ"
